@@ -152,3 +152,7 @@ The exact directory structure may vary slightly among model implementations beca
 5. **Wang, Y.H. and Gupta, H.V. (2025).**  
    Using machine learning to discover parsimonious and physically-interpretable representations of catchment-scale rainfall-runoff dynamics.
    *Water Resources Research, 61*(12), e2025WR040178.
+
+## License
+
+Code and pretrained model weights in this repository are released under the Apache License 2.0.
