@@ -25,8 +25,8 @@ These five models represent progressively different MCP-based representations of
 
 | Model | Model notation | Original study |
 |---|---|---|
-| MCPModel1 | $MC\{O_{\sigma}L_{\sigma}^{con}\}$ | Wang & Gupta (2024a) |
-| MCPModel2 | $MC\{O_{\sigma}L_{\sigma}^{con}M_{\sigma r}^{R}\}$ | Wang & Gupta (2024a) |
+| MCPModel1 |  $MC\lbrace O_{\sigma}L_{\sigma}^{con}\rbrace$ | Wang & Gupta (2024a) |
+| MCPModel2 | $MC\lbrace O_{\sigma}L_{\sigma}^{con}M_{\sigma r}^{R}\rbrace$ | Wang & Gupta (2024a) |
 | MCPModel3 | $MA_{5}$ | Wang & Gupta (2024b) |
 | MCPModel4 | $MN_{SALO}^{DS}(5)$ | Wang & Gupta (2025) |
 | MCPModel5 | $MN_{SALO}^{DI}(3)$ | Wang & Gupta (2025) |
