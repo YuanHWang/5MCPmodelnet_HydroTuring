@@ -36,7 +36,8 @@ These five models represent progressively different MCP-based representations of
 These models were introduced in:
 
 **Wang, Y.H. and Gupta, H.V. (2024a).**  
-*A mass-conserving-perceptron for machine-learning-based modeling of geoscientific systems.* **Water Resources Research, 60**(4), e2023WR036461.
+*A mass-conserving-perceptron for machine-learning-based modeling of geoscientific systems.* 
+**Water Resources Research, 60**(4), e2023WR036461.
 
 This study introduced the Mass-Conserving Perceptron (MCP) as a differentiable, mass-conserving architectural unit for modeling dynamical geoscientific systems.
 
@@ -45,7 +46,8 @@ This study introduced the Mass-Conserving Perceptron (MCP) as a differentiable, 
 This model was developed in:
 
 **Wang, Y.H. and Gupta, H.V. (2024b).**  
-*Towards interpretable physical-conceptual catchment-scale hydrological modeling using the mass-conserving-perceptron.* **Water Resources Research, 60**(10), e2024WR037224.
+*Towards interpretable physical-conceptual catchment-scale hydrological modeling using the mass-conserving-perceptron.* 
+**Water Resources Research, 60**(10), e2024WR037224.
 
 This study explored how MCP-based architectures can be assembled to construct interpretable physical-conceptual hydrologic models.
 
@@ -54,7 +56,8 @@ This study explored how MCP-based architectures can be assembled to construct in
 These models were developed in:
 
 **Wang, Y.H. and Gupta, H.V. (2025).**  
-*Using machine learning to discover parsimonious and physically-interpretable representations of catchment-scale rainfall-runoff dynamics.* **Water Resources Research, 61**(12), e2025WR040178.
+*Using machine learning to discover parsimonious and physically-interpretable representations of catchment-scale rainfall-runoff dynamics.* 
+**Water Resources Research, 61**(12), e2025WR040178.
 
 This study used MCP-based model networks to investigate parsimonious and physically interpretable representations of catchment-scale rainfall-runoff dynamics.
 
@@ -139,10 +142,13 @@ The exact directory structure may vary slightly among model implementations beca
 ## References
 
 1. **Wang, Y.H. and Gupta, H.V. (2024a).**  
-   A mass-conserving-perceptron for machine-learning-based modeling of geoscientific systems.  *Water Resources Research, 60*(4), e2023WR036461.
+   A mass-conserving-perceptron for machine-learning-based modeling of geoscientific systems.
+   *Water Resources Research, 60*(4), e2023WR036461.
 
-2. **Wang, Y.H. and Gupta, H.V. (2024b).**  
-   Towards interpretable physical-conceptual catchment-scale hydrological modeling using the mass-conserving-perceptron.  *Water Resources Research, 60*(10), e2024WR037224.
+3. **Wang, Y.H. and Gupta, H.V. (2024b).**  
+   Towards interpretable physical-conceptual catchment-scale hydrological modeling using the mass-conserving-perceptron.
+   *Water Resources Research, 60*(10), e2024WR037224.
 
-3. **Wang, Y.H. and Gupta, H.V. (2025).**  
-   Using machine learning to discover parsimonious and physically-interpretable representations of catchment-scale rainfall-runoff dynamics.  *Water Resources Research, 61*(12), e2025WR040178.
+5. **Wang, Y.H. and Gupta, H.V. (2025).**  
+   Using machine learning to discover parsimonious and physically-interpretable representations of catchment-scale rainfall-runoff dynamics.
+   *Water Resources Research, 61*(12), e2025WR040178.
