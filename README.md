@@ -12,7 +12,7 @@ For all three studies, the **Leaf River catchment** was used as the primary expe
 The five models included in this repository are:
 
 1. **MCPModel1:** $MC\{O_{\sigma}L_{\sigma}^{con}\}$
-2. **MCPModel2:** $MC\,O_{\sigma}\,L_{\sigma}^{\mathrm{con}}\,M_{\sigma r}^{R}$
+2. **MCPModel2:** $MC\{O_{\sigma}L_{\sigma}^{con}M_{\sigma r}^{R}\}$
 3. **MCPModel3:** $MA_{5}$
 4. **MCPModel4:** $MN_{SALO}^{DS}(5)$
 5. **MCPModel5:** $MN_{SALO}^{DI}(3)$
